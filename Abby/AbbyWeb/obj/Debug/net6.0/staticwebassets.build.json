@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "si1Kr4wUeqeDZVhdAYTfwyLkjQDFwSPjeuRboOcO73k=",
+  "Hash": "kzpen9CIqc6D8g4nhBmJ9DstkDEquot/AS+nStC0Skw=",
   "Source": "AbbyWeb",
   "BasePath": "_content/AbbyWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Petar Kobakov\\Desktop\\AbbyWeb\\Abby\\AbbyWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AbbyWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Petar Kobakov\\Desktop\\AbbyWeb\\Abby\\AbbyWeb\\wwwroot\\css\\bootswatch_darkly.css",
+      "SourceId": "AbbyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Petar Kobakov\\Desktop\\AbbyWeb\\Abby\\AbbyWeb\\wwwroot\\",
+      "BasePath": "_content/AbbyWeb",
+      "RelativePath": "css/bootswatch_darkly.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch_darkly.css"
     },
     {
       "Identity": "C:\\Users\\Petar Kobakov\\Desktop\\AbbyWeb\\Abby\\AbbyWeb\\wwwroot\\css\\site.css",
