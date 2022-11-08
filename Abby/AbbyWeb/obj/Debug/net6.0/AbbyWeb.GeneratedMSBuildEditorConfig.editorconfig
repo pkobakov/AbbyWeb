@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Petar Kobakov\Desktop\AbbyWeb\Abby\AbbyWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Petar Kobakov/Desktop/AbbyWeb/Abby/AbbyWeb/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Petar Kobakov/Desktop/AbbyWeb/Abby/AbbyWeb/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
